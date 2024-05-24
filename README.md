@@ -3,7 +3,7 @@
 - Utilized Context API to efficiently manage state & avoid props drilling.
 - Styled-component to achieve scoped and maintainable styling.
 - react-router-dom for dynamic & seamless navigation between different pages.
-- API used : https://codeial.codingninjas.com:8000/api/v2/
+
 
 
 
